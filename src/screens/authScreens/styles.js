@@ -1,6 +1,5 @@
 import { Platform, StyleSheet } from "react-native";
 import { Colors, Metrics } from "src/Utils";
-import { ifIphoneX } from "react-native-iphone-x-helper";
 const styles = StyleSheet.create({
   headerTitle: {
     fontSize: 17,

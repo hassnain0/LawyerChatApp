@@ -10,7 +10,6 @@ const Main = () => {
   // User status in state
   const [initializing, setInitializing] = useState(true);
   const [user, setUser] = useState(null);
-  const [listener, setListener] = useState(null);
   const dispatch = useDispatch();
   const userData = useSelector((state) => state.app.user);
   // Handle user state changes
