@@ -1,0 +1,25 @@
+const colors = {
+  transparent: "rgba(0,0,0,0)",
+  appColor: "#009845",
+  appTextColor: "#FFCA08",
+  appBackgroundColor: "#f5f5f5",
+  cardBorderColor: "#d9d9d9",
+  textColor: "#fff",
+  White: "#FFF",
+  StatusBar: "rgba(250,250,250, 0.9)",
+  slateGrey: "#333E43",
+  Black: "#000",
+  charcoalGrey: "rgba(60,60,67, 0.6)",
+  appButton: "rgb(55,125,255)",
+  appBlue: "rgb(55,125,255)",
+  appGreen: "rgb(23,196,145)",
+  appRed: "rgb(252,62,48)",
+  appLightGrey: "rgb(220, 220, 220)",
+  appGrey: "rgb(142, 142, 147)",
+  appBlack: "rgb(14,20,30)",
+  appYellow: "rgb(245,166,35)",
+  greyColor: "#999999",
+  lightG: "#D9D9D9",
+};
+
+export default colors;
